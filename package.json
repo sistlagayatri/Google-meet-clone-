@@ -1,0 +1,19 @@
+{
+  "name": "google_meet-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "g": "^2.0.1",
+    "peers": "^0.1.0",
+    "save": "^2.9.0",
+    "socket.io": "^4.7.1"
+  }
+}
